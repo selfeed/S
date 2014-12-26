@@ -1,7 +1,7 @@
 S
 =
 
-Shadow-world. Only you and me, no Server
+Shadow-world. Only you and me, no Server.
 
 What?
 -----------
